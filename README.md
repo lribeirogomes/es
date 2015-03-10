@@ -1,6 +1,3 @@
-# Sistemas Distribuídos
-Malta, metam as cenas aqui !
-
 # Instruções
 Em caso de emergência, leiam as instruções.
 
